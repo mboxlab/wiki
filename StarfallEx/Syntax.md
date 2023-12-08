@@ -1,8 +1,8 @@
 ---
-title: StarfallEx Syntax | StarfallEx Синтаксис
+title: StarfallEx Синтаксис
 description: Тут ты научишься ставить чип
 published: false
-date: 2023-12-08T19:58:20.359Z
+date: 2023-12-08T21:30:22.709Z
 tags: starfallex
 editor: markdown
 dateCreated: 2023-12-08T18:14:10.434Z
@@ -26,6 +26,9 @@ dateCreated: 2023-12-08T18:14:10.434Z
  ]]--
 
 ```
+> Так же имеются "// c" и "/* c */" комментарии но использование их нежелательно
+{.is-warning}
+
 >  **Директивы** начинаются на **--@** 
 {.is-info}
 
