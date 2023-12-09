@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2023-12-09T18:25:52.720Z
+date: 2023-12-09T18:28:48.646Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T15:59:06.690Z
@@ -42,4 +42,6 @@ dateCreated: 2023-12-09T15:59:06.690Z
 
 ### headbar
 
-в Верхней панеле есть ещё одни
+в Верхней панеле есть ещё кнопки о которых я вам расскажу :
+
+- pac
