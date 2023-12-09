@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2023-12-09T18:06:32.511Z
+date: 2023-12-09T18:25:52.720Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T15:59:06.690Z
@@ -40,3 +40,6 @@ dateCreated: 2023-12-09T15:59:06.690Z
 - розовый цвет ( option panel ^настройка^ ^атрибутов^ )
 - синий цвет ( View ^настройки^ ^видимости^ )
 
+### headbar
+
+в Верхней панеле есть ещё одни
