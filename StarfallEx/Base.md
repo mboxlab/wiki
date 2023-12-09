@@ -2,7 +2,7 @@
 title: StarfallEx Основы
 description: Тут ты научишься ставить чип
 published: true
-date: 2023-12-09T08:55:37.924Z
+date: 2023-12-09T08:55:48.940Z
 tags: starfallex
 editor: markdown
 dateCreated: 2023-12-08T18:14:10.434Z
@@ -27,7 +27,7 @@ _IMBIG
 
 ```
 
-> мы **не можем** использовать cледующие слова в качестве идентификаторов так как они зарезервированы: **and break do else elseif end false goto for function if in local nil not or repeat return then true until while**
+> мы **не можем** использовать cледующие слова в качестве переменных так как они зарезервированы: **and break do else elseif end false goto for function if in local nil not or repeat return then true until while**
 {.is-warning}
 
 
