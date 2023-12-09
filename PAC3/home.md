@@ -2,7 +2,7 @@
 title: Основа
 description: Основной гайд в котором вы узнаете всё что вам понадобиться для дальнейшего изучения
 published: false
-date: 2023-12-09T19:52:12.318Z
+date: 2023-12-09T20:25:31.223Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T15:59:06.690Z
