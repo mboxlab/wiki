@@ -2,7 +2,7 @@
 title: Вторая часть гайда
 description: вы проходите уже вторую часть гайда по pac3 где вы сможете узнать намного больше о редакторе
 published: true
-date: 2023-12-10T23:45:59.704Z
+date: 2023-12-10T23:51:01.475Z
 tags: pac3, gmod, garry's mod, servers, mbox
 editor: markdown
 dateCreated: 2023-12-09T19:06:12.683Z
@@ -32,10 +32,6 @@ dateCreated: 2023-12-09T19:06:12.683Z
 будем называть такие supple или дополняющие, дополняющий
 {.is-info}
   
-<script type="module" src="https://unpkg.com/@splinetool/viewer@0.9.521/build/spline-viewer.js"></script>
-<spline-viewer url="https://prod.spline.design/cbyfek5zogymAG9d/scene.splinecode"></spline-viewer>
-
-
 - fog ^supple^ ( добавляет туман на объект )
 - halo ^supple^ ( добавляет свечение на объект )
 - text ^object^ ( создает текст )
