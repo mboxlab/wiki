@@ -2,7 +2,7 @@
 title: Вторая часть гайда
 description: вы проходите уже вторую часть гайда по pac3 где вы сможете узнать намного больше о редакторе
 published: true
-date: 2023-12-11T02:12:11.333Z
+date: 2023-12-11T02:12:32.180Z
 tags: pac3, gmod, garry's mod, servers, mbox
 editor: markdown
 dateCreated: 2023-12-09T19:06:12.683Z
