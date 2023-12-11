@@ -2,7 +2,7 @@
 title: Основа
 description: Основной гайд в котором вы узнаете всё что вам понадобиться для дальнейшего изучения
 published: false
-date: 2023-12-11T00:57:28.372Z
+date: 2023-12-11T02:00:34.579Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T15:59:06.690Z
@@ -12,11 +12,11 @@ dateCreated: 2023-12-09T15:59:06.690Z
 <br>
 <br>
 
-<font style="font-size:23px">[Основы](/PAC3/Начальный_гайд)</font>
+<a href="https://wiki.motorolaservers.ru/PAC3/Начальный_гайд" class="font">Начальный гайд</a>
 
 <br>
 ---
 <br>
 
-<font style="font-size:23px">[Дальнейший гайд](/PAC3/new-page)</font>
+<a href="https://wiki.motorolaservers.ru/PAC3/new-page" class="font">Дальнейший гайд</a>
 <br>
