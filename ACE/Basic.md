@@ -2,7 +2,7 @@
 title: Basic
 description: Основы ACE
 published: false
-date: 2023-12-11T00:05:15.178Z
+date: 2023-12-11T00:06:42.037Z
 tags: ace, wire
 editor: markdown
 dateCreated: 2023-12-11T00:05:15.178Z
