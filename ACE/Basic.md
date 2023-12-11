@@ -1,0 +1,17 @@
+---
+title: Basic
+description: Основы ACE
+published: false
+date: 2023-12-11T00:05:15.178Z
+tags: ace, wire
+editor: markdown
+dateCreated: 2023-12-11T00:05:15.178Z
+---
+
+# База
+**ACE - Armored Combat Extended**. ***Масштабное*** ответвление от прародителя **ACF**. **ACE** включает в себя больше чем **ACF2**. Орудия, ракеты, системы наведения, механики и т.д. 
+
+Впервые **ACE** был официально опубликован в мастерскую Steam 10 июня 2021 года разработчиком ***Marty***. До по публикации в Steam разработкой занимался ***RDC*** (*RedDeadlyCreeper*) на GitHub'е.
+
+
+
