@@ -2,7 +2,7 @@
 title: StarfallEx Основы
 description: Тут ты научишься ставить чип
 published: true
-date: 2023-12-09T09:39:59.604Z
+date: 2023-12-19T08:49:21.659Z
 tags: starfallex
 editor: markdown
 dateCreated: 2023-12-08T18:14:10.434Z
@@ -67,7 +67,7 @@ print(b) --> nil
 {.is-warning}
 
 # Типы и значения
-> В StarfallEx существует восемь базовых типов: `nil, boolean, number, string, table, function, userdata и thread`
+> В StarfallEx существует восемь базовых типов: `nil, boolean, number, string, table, function, userdata и coroutine`
 
 ## Логические значения — boolean
 > Тип boolean обладает двумя значениями — true и false
@@ -211,9 +211,9 @@ print(a.y) --> 10 -- значение поля "y"
 функции можно передавать как аргументы для других функций и возвращать функции как результаты. Подобные возможности придают языку огромную гибкость
 
 
-## Cопрограммы — thread
+## Cопрограммы — coroutine
 
-Тип thread будет разобран в другом, где мы рассмотрим сопрограммы.
+Тип coroutine будет разобран в другом гайде, где мы рассмотрим сопрограммы.
 
 
 
