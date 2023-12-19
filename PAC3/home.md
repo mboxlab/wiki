@@ -2,14 +2,14 @@
 title: PAC3
 description: 
 published: false
-date: 2023-12-19T09:45:59.292Z
+date: 2023-12-19T09:46:44.234Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T15:59:06.690Z
 ---
 
+# Основы
 
+## [Интерфейс](/PAC3/Интерфейс)
 
-[Интерфейс](/PAC3/Интерфейс)
-#
-[Объекты](/PAC3/objects)
+### [Объекты](/PAC3/objects)
