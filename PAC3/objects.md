@@ -2,15 +2,11 @@
 title: Объекты
 description: тут вы узнаете об объектах PAC3
 published: false
-date: 2023-12-19T18:47:17.516Z
+date: 2023-12-19T18:47:36.563Z
 tags: pac3, gmod, garry's mod, servers, mbox
 editor: markdown
 dateCreated: 2023-12-09T19:06:12.683Z
 ---
-
-<head>
- <title>хух</title>
-</head>
 
 Чтобы открыть список объектов необходимо нажать на зеленый `+` в едиторе
 ![pac3_objects.gif](/pac3/pac3_objects.gif){.align-center}
