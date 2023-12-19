@@ -2,13 +2,11 @@
 title: Объекты
 description: тут вы узнаете об объектах PAC3
 published: true
-date: 2023-12-19T08:54:01.400Z
+date: 2023-12-19T08:55:08.425Z
 tags: pac3, gmod, garry's mod, servers, mbox
 editor: markdown
 dateCreated: 2023-12-09T19:06:12.683Z
 ---
-
-# объекты
 
 вы можете создавать обьекты для этого вам нужно
 навестись на группу которая у вас изначально создалась
