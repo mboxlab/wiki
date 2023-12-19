@@ -2,7 +2,7 @@
 title: PAC3
 description: 
 published: true
-date: 2023-12-19T18:40:05.325Z
+date: 2023-12-19T19:00:58.628Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T15:59:06.690Z
@@ -17,3 +17,8 @@ dateCreated: 2023-12-09T15:59:06.690Z
 ---
 
 <a>[Объекты](/PAC3/objects)</a>
+
+<br>
+<br>
+
+<font color="#181818" class="font"> ##### **by tvary_zhoskiy** </font>
