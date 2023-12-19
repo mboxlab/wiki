@@ -1,8 +1,8 @@
 ---
-title: StarfallEx Основы
+title: Основы
 description: Тут ты научишься ставить чип
 published: true
-date: 2023-12-19T08:49:21.659Z
+date: 2023-12-19T10:38:42.432Z
 tags: starfallex
 editor: markdown
 dateCreated: 2023-12-08T18:14:10.434Z
