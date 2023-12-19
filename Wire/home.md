@@ -1,8 +1,8 @@
 ---
-title: 
+title: Wire
 description: 
 published: true
-date: 2023-12-19T10:24:31.683Z
+date: 2023-12-19T10:36:23.094Z
 tags: wire
 editor: markdown
 dateCreated: 2023-12-09T09:59:20.997Z
