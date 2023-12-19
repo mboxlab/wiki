@@ -2,10 +2,15 @@
 title: 
 description: 
 published: true
-date: 2023-12-09T12:24:53.018Z
+date: 2023-12-19T10:24:39.855Z
 tags: строительство
 editor: markdown
 dateCreated: 2023-12-09T12:24:53.018Z
 ---
 
-# Основные гайды
+
+**Знаешь?
+Хочешь?
+Можешь?**
+Присоединяйся к команде писателей!
+Напиши заявку в личные сообщения [@kekobka](https://motorolaservers.ru/discord)
