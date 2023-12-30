@@ -2,13 +2,13 @@
 title: PAC3
 description: 
 published: true
-date: 2023-12-19T19:01:22.773Z
+date: 2023-12-30T16:00:20.039Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T15:59:06.690Z
 ---
 
-# Основы
+# Основы pac3
 
 <br>
 
@@ -16,7 +16,7 @@ dateCreated: 2023-12-09T15:59:06.690Z
 
 ---
 
-<a>[Объекты](/PAC3/objects)</a>
+<a>[Объекты и их изменения](/PAC3/objects)</a>
 
 <br>
 <br>
