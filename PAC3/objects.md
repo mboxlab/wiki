@@ -1,8 +1,8 @@
 ---
-title: Объекты
+title: Объекты и их изменения
 description: тут вы узнаете об объектах PAC3
 published: false
-date: 2023-12-29T23:18:51.067Z
+date: 2023-12-30T15:59:23.819Z
 tags: pac3, gmod, garry's mod, servers, mbox
 editor: markdown
 dateCreated: 2023-12-09T19:06:12.683Z
