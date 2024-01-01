@@ -2,7 +2,7 @@
 title: PAC3
 description: 
 published: true
-date: 2023-12-30T16:43:58.860Z
+date: 2024-01-01T00:41:46.108Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T15:59:06.690Z
@@ -29,4 +29,4 @@ Pac3 - Аддон к игре Garry's mod с помощью которого <br
 <br>
 <br>
 
-<font color="#181818" class="font"> ##### **by tvary_zhoskiy** </font>
+<font color="#181818" class="font"> ⎯⎯⎯⎯⎯ **by tvary_zhoskiy** </font>
