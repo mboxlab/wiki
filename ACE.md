@@ -2,13 +2,14 @@
 title: ACE
 description: 
 published: true
-date: 2024-01-13T13:46:00.324Z
+date: 2024-01-13T13:50:27.304Z
 tags: ace
 editor: markdown
 dateCreated: 2023-12-09T09:56:33.586Z
 ---
 
- # Основные гайды по ACE/ACF
+ # Основные гайды по ACE
+
 
 > ##  [База](/ACE/Основы)
 {.is-info}
