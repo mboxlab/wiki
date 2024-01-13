@@ -2,7 +2,7 @@
 title: ACE
 description: 
 published: true
-date: 2023-12-21T15:48:09.720Z
+date: 2024-01-13T13:46:00.324Z
 tags: ace
 editor: markdown
 dateCreated: 2023-12-09T09:56:33.586Z
@@ -16,6 +16,14 @@ dateCreated: 2023-12-09T09:56:33.586Z
 
 > ## [Обучение. Раздел: Ствольные орудия](/ACE/Обучение)
 {.is-info}
+
+
+
+
+
+
+
+
 
 
 
