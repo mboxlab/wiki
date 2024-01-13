@@ -2,7 +2,7 @@
 title: ACE - Armored Combat Extended
 description: 
 published: true
-date: 2024-01-13T14:04:21.216Z
+date: 2024-01-13T14:04:37.269Z
 tags: ace
 editor: markdown
 dateCreated: 2023-12-09T09:56:33.586Z
@@ -13,11 +13,11 @@ dateCreated: 2023-12-09T09:56:33.586Z
 
 > ##  [Основная Информация](/ACE/Основная_Информация) {.is-info} 
 
-
+{.is-info} 
 
 > ## [Обучение. Раздел: Ствольные орудия](/ACE/Обучение_Раздел_Ствольные_орудия) {.is-info}
 
-
+{.is-info} 
 
 > ## [Обучение. Раздел: Ракеты](/ACE/new-page) {.is-info}
 
