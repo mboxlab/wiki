@@ -2,7 +2,7 @@
 title: Wire
 description: 
 published: true
-date: 2024-02-15T17:24:28.621Z
+date: 2024-02-15T17:25:26.729Z
 tags: wire
 editor: markdown
 dateCreated: 2023-12-09T09:59:20.997Z
